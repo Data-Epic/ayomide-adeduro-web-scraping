@@ -1,4 +1,4 @@
-# Premier League Data Scraping Pipeline
+# The Premier League Data Scraping Pipeline
 
 ## Overview
 This project scrapes 2024/2025 Premier League data from [FBref](https://fbref.com/en/comps/9/Premier-League-Stats), including the Final Table, Top Team Scorers, and Squad Goalkeeping data. The data is cleaned, processed, and stored in a Google Sheet.
