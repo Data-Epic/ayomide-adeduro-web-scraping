@@ -7,7 +7,6 @@ import cloudscraper
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 
-
 # Set up logging to track progress and errors
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
