@@ -1,0 +1,4 @@
+premierleaguescraper.json
+credentials.json
+*.json
+.env
